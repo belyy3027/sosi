@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+.content{
+    margin: 0 10px;
+}
+
+header {
+    background-color: rgb(34, 34, 34);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+header>h1 {
+    color: rgb(229, 231, 235);
+    text-align: center;
+    margin: 0;
+}
+
+
+
+.a1,.a2 {
+    background-color: rgb(34, 34, 34);
+    padding:0 0 10px 10px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.a1>h1,.a2>h1 {
+    color: rgb(229, 231, 235); 
+    margin-top: 0; 
+    
+}
+
+.a1>p,.a2>p {
+    color: rgb(229, 231, 235);
+    margin-bottom: 0;
+}
+
+
+.a3 {
+    background-color: rgb(34, 34, 34);
+    margin-top: 20px;
+}
+
+.a3>h2 {
+    color: rgb(229, 231, 235);
+    padding-left: 10px;
+    margin-top: 0;
+}
+
+header,.a1,.a2,.a3 {
+    border: 1px solid rgb(66, 66, 66);
+    border-radius: 10px;
+}
+
+
+
+
+.b1 {
+    margin: 0;
+    padding: 0;
+    list-style: none;  
+}
+.b1>li {
+    color: rgb(229, 231, 235);
+    padding-left: 10px;
+}
+
+.b2 {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: rgb(229, 231, 235);
+    
+}
+
+.a4 {
+    color: rgb(229, 231, 235);
+    padding-left: 10px;
+    font-size: 20;
+}
+
+.card {
+    background-color: rgb(34, 34, 34);
+    padding:0 0 10px 10px;
+    border: 1px solid rgb(66, 66, 66);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card>ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.card>h2,
+.card>h3,
+.card>p,
+.card li,
+.card h4 {
+    color: rgb(229, 231, 235);
+}
+
+
