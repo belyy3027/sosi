@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(250, 246, 246);
 }
 
 .content{
@@ -101,5 +101,17 @@ header,.a1,.a2,.a3 {
 .card h4 {
     color: rgb(229, 231, 235);
 }
+
+
+
+
+.s>p>a{
+    color: rgb(178, 238, 13);
+}
+
+
+
+
+
 
 
